@@ -1,4 +1,3 @@
-
 import matplotlib.pyplot as plt
 
 def plot_words(word_counts, n=10):
