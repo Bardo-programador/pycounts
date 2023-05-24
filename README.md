@@ -7,6 +7,9 @@ A calculator of word count in a file .txt
 ```bash
 $ pip install pycounts
 ```
+```bash
+$ poetry install 
+```
 
 ## Usage
 
